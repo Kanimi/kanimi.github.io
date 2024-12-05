@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Welcome to my page, I've got multiple projects I am working on at any one time.
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
