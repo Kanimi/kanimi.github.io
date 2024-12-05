@@ -1,0 +1,4 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins: jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Kai's Corner]
+description: [A place to find some information about my current projects, ways to contact me and my CV.]
